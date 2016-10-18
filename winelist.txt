@@ -1,0 +1,100 @@
+kDow Vintage Port  	;	2011	;	99	;	82	; 123456 ; Canada
+Mollydooker Shiraz Carnival of Love  	;	2012	;	95	;	75	
+Prats & Symington Douro Chryseia  	;	2011	;	97	;	55	
+Quinta do Vale Meão Douro  	;	2011	;	97	;	76	
+Leeuwin Chardonnay River Art Series  	;	2011	;	96	;	89	
+Castello di Ama Chianti ;	2010	;	95	;	52	
+Clos des Papes Châteauneuf-du-Pape  	;	2012	;	97	;	135	
+Brewer-Clifton Pinot Noir Rita Hills  	;	2012	;	94	;	40	
+Concha y Toro Cabernet Sauvignon ;	2010	;	95	;	125	
+Château Léoville Las Cases St.-Julien  	;	2011	;	95	;	165	
+Mount Eden Chardonnay Santa Cruz Mountains  	;	2011	;	95	;	60	
+Château Guiraud Sauternes  	;	2011	;	97	;	50	
+Fonseca Vintage Port  	;	2011	;	98	;	116	
+Fontodi Colli della ;	2011	;	95	;	120	
+Bedrock The Bedrock Heritage ;	2012	;	95	;	42	
+Two Hands Shiraz Barossa Garden  	;	2012	;	95	;	69	
+Soter Pinot Noir Yamhill-Carlton ;	2012	;	95	;	60	
+Château Doisy-Védrines Barsac  	;	2011	;	95	;	35	
+Luca Malbec Uco Valley  	;	2012	;	93	;	32	
+Peter Michael Chardonnay ;	2012	;	95	;	90	
+Castello di Volpaia Chianti ;	2010	;	93	;	29	
+Podere Sapaio Bolgheri Volpolo  	;	2011	;	93	;	35	
+St.-Cosme Châteauneuf-du-Pape  	;	2010	;	96	;	59	
+Massolino Barolo  	;	2009	;	95	;	60	
+Bodegas Fournier Malbec ;	2010	;	94	;	54	
+Emeritus Pinot Noir Russian River ;	2011	;	93	;	42	
+Quinta do Portal Douro Colheita  	;	2011	;	92	;	15	
+Château de Beaucastel Châteauneuf-du-Pape  	;	2011	;	94	;	97	
+Hamilton Russell Pinot Noir ;	2012	;	93	;	46	
+DuMOL Syrah Russian River Valley  	;	2012	;	94	;	55	
+Sangiovese-Cabernet Sauvignon ;	2011	;	92	;	18	
+Hidden Ridge Cabernet Sauvignon Sonoma County ;	2009	;	93	;	45	
+Orin Swift Machete California  	;	2012	;	93	;	48	
+La Rioja Alta Rioja Viña Ardanza Reserva  	;	2005	;	92	;	30	
+Amavi Cabernet Sauvignon Walla Walla Valley  	;	2011	;	92	;	29	
+Marcassin Pinot Noir Sonoma Marcassin ;	2009	;	97	;	125	
+Giuseppe Cortese Barbaresco Rabajà  	;	2010	;	94	;	55	
+Aubert Chardonnay Russian River ;	2012	;	95	;	80	
+Oddero Barolo  	;	2010	;	93	;	49	
+Loosen Bros. Riesling QbA Mosel Dr. L  	;	2012	;	91	;	12	
+Rombauer Chardonnay Carneros  	;	2012	;	92	;	34	
+Lapostolle Clos Apalta ;	2010	;	94	;	89	
+Charles Smith Riesling Kung Fu Girl Evergreen  	;	2013	;	91	;	12	
+Viña Cono Sur Cabernet Valley  	;	2011	;	91	;	14	
+Tikal Patriota Mendoza  	;	2012	;	91	;	23	
+Turley Zinfandel California Juvenile  	;	2012	;	91	;	20	
+Luce della Vite Toscana Luce  	;	2011	;	95	;	105	
+Fincas Patagonicas Malbec Mendoza Zolo Reserve  	;	2012	;	91	;	19	
+Trimbach Riesling Alsace  	;	2012	;	91	;	25	
+Abadia Retuerta Viño Duero Selección Especial  	;	2010	;	92	;	35	
+Giuseppe Rinaldi Barolo Brunate  	;	2010	;	97	;	129	
+Herman Story Grenache California On the Road  	;	2011	;	93	;	42	
+Ponzi Pinot Noir Willamette Valley Tavola  	;	2012	;	91	;	25	
+Mumm Napa Brut Napa Valley Prestige  	;	NV	;	91	;	22	
+Veramonte Cabernet Sauvignon ;	2011	;	90	;	12	
+João Portugal Ramos Alentejo ;	2012	;	90	;	13	
+Viña Bisquertt Syrah Colchagua Valley Reserva  	;	2012	;	90	;	13	
+TwentyFour Cabernet Sauvignon Napa Valley  	;	2010	;	93	;	112	
+Peter Lehmann Clancy's Barossa  	;	2011	;	90	;	15	
+St.-Urbans-Hof Riesling QbA Mosel Old Vines  	;	2012	;	90	;	16	
+De Martino Cabernet Sauvignon Maipo ;	2011	;	92	;	17	
+Bodegas Montecillo Rioja Viña ;	2010	;	90	;	10	
+Buitenverwachting Sauvignon Blanc ;	2013	;	90	;	15	
+Cune Rioja White Monopole  	;	2013	;	90	;	15	
+Ornellaia Bolgheri Superiore  	;	2011	;	96	;	240	
+Fowles Shiraz Victoria Are You Game?  	;	2012	;	91	;	17	
+Tohu Sauvignon Blanc Marlborough ;	2013	;	90	;	13	
+Godelia Mencía Bierzo  	;	2010	;	92	;	21	
+Feudo di Santa Croce Primitivo di ;	2010	;	91	;	22	
+D. Kourtakis Assyrtiko Santorini Greek ;	2012	;	90	;	13	
+Roar Pinot Noir Santa Lucia Highlands ;	2012	;	93	;	52	
+Château Lilian Ladouys St.-Estèphe  	;	2011	;	90	;	19	
+Gérard Bertrand Syrah-Grenache Languedoc  	;	2011	;	90	;	19	
+di Majo Norante Molise Ramitello  	;	2011	;	90	;	18	
+Disznókó´ Tokaji Aszú 5 Puttonyos  	;	2006	;	94	;	49	
+Vietti Barbera d'Asti Tre Vigne  	;	2012	;	90	;	17	
+E. Guigal Côte-Rôtie Château d'Ampuis  	;	2010	;	97	;	206	
+Acrobat Pinot Noir Oregon  	;	2012	;	90	;	20	
+Marqués de Griñon Cabernet Sauvignon ;	2010	;	93	;	40	
+Nino Negri Valtellina Superiore Quadrio  	;	2010	;	90	;	20	
+Domaine de Triennes Vin de Pays du ;	2010	;	90	;	20	
+Mulderbosch Faithful Hound Stellenbosch  	;	2011	;	91	;	25	
+Round Pond Estate Sauvignon Blanc Rutherford  	;	2013	;	90	;	24	
+Bodegas Marqués de Murrieta Rioja Castillo ;	2005	;	94	;	89	
+Masciarelli Montepulciano d'Abruzzo Marina ;	2010	;	91	;	25	
+Pali Wine Co. Pinot Noir Santa Barbara ;	90	;	23	
+Firriato Sicilia Santagostino Baglio Soria Red  	;	2011	;	91	;	23	
+Christian Moreau Père & Fils Chablis  	;	2012	;	91	;	31	
+Carol Shelton Zinfandel Mendocino County ;	2011	;	90	;	19	
+Domäne Wachau Grüner Veltliner Federspiel ;	2012	;	90	;	14	
+Domaine La Barroche Châteauneuf-du-Pape ;	2012	;	95	;	78	
+Vecchia Cantina di Montepulciano Vino ;	2010	;	90	;	15	
+Recanati Cabernet Sauvignon Galilee  	;	2012	;	90	;	17	
+Château Lamartine Cahors  	;	2011	;	90	;	19	
+Antonio Barbadillo Manzanilla Sanlúcar;	NV	;	90	;	15	
+Domaine Gerovassiliou Epanomi White  	;	2013	;	90	;	22	
+Tenuta delle Terre Nere Etna  	;	2012	;	90	;	22	
+Domaine Terlato & Chapoutier Shiraz;	2012	;	90	;	19	
+Loimer Grüner Veltliner Qualitätswein ;	2012	;	91	;	22	
+Saint Clair Pinot Noir Marlborough ;	2012	;	92	;	31	

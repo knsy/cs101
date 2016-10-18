@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>886</width>
+    <height>423</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>10</y>
+      <width>631</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="baseSize">
+     <size>
+      <width>3</width>
+      <height>100</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnAllWines">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>All Wines</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnRateWines">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>50</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rating Range</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputMinRating">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>100</y>
+      <width>31</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputMaxRating">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>100</y>
+      <width>31</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string>100</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>80</y>
+      <width>31</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Min</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>80</y>
+      <width>31</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Max</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="numberOfWinesLabel">
+    <property name="geometry">
+     <rect>
+      <x>272</x>
+      <y>270</y>
+      <width>111</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Number of Wines:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="avgPriceLabel">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>270</y>
+      <width>101</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Average Price:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnPriceWines">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>150</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Price Range</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>180</y>
+      <width>31</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Max</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputMinPrice">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>200</y>
+      <width>31</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputMaxPrice">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>200</y>
+      <width>31</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string>100</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>180</y>
+      <width>31</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Min</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="background">
+    <property name="geometry">
+     <rect>
+      <x>-250</x>
+      <y>-90</y>
+      <width>591</width>
+      <height>481</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>wine_glass.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="debugLabel">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>300</y>
+      <width>241</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Fail.</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnSortRatingWines">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>250</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Sort By Rating</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnSortPriceWines">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>290</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Sort By Price</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnAddWine">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>350</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add Entry</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWineName">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>338</y>
+      <width>281</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>New Wine Name?</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWineRating">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>338</y>
+      <width>51</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rating?</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWinePrice">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>338</y>
+      <width>51</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Price?</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWineVintage">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>338</y>
+      <width>51</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Vintage?</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWineUpc">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>338</y>
+      <width>51</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>UPC</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputWineLocation">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>338</y>
+      <width>101</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Location</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnSaveWines">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>270</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save List</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnReloadWines">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>270</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>ReLoad List</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnEditWine">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>320</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Edit Entry</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnMysqlSearch">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>170</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MySQL Search</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inputBtnMysqlAll">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>10</y>
+      <width>85</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MySQL All</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputMysqlSearch">
+    <property name="geometry">
+     <rect>
+      <x>760</x>
+      <y>140</y>
+      <width>111</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MySQL Query....</string>
+    </property>
+   </widget>
+   <zorder>background</zorder>
+   <zorder>tableWidget</zorder>
+   <zorder>inputBtnAllWines</zorder>
+   <zorder>inputBtnRateWines</zorder>
+   <zorder>inputMinRating</zorder>
+   <zorder>inputMaxRating</zorder>
+   <zorder>label</zorder>
+   <zorder>label_2</zorder>
+   <zorder>numberOfWinesLabel</zorder>
+   <zorder>avgPriceLabel</zorder>
+   <zorder>inputBtnPriceWines</zorder>
+   <zorder>label_3</zorder>
+   <zorder>inputMinPrice</zorder>
+   <zorder>inputMaxPrice</zorder>
+   <zorder>label_4</zorder>
+   <zorder>debugLabel</zorder>
+   <zorder>inputBtnSortRatingWines</zorder>
+   <zorder>inputBtnSortPriceWines</zorder>
+   <zorder>inputBtnAddWine</zorder>
+   <zorder>inputWineName</zorder>
+   <zorder>inputWineRating</zorder>
+   <zorder>inputWinePrice</zorder>
+   <zorder>inputWineVintage</zorder>
+   <zorder>inputWineUpc</zorder>
+   <zorder>inputWineLocation</zorder>
+   <zorder>inputBtnSaveWines</zorder>
+   <zorder>inputBtnReloadWines</zorder>
+   <zorder>inputBtnEditWine</zorder>
+   <zorder>inputBtnMysqlSearch</zorder>
+   <zorder>inputBtnMysqlAll</zorder>
+   <zorder>inputMysqlSearch</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>886</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>LeftToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="separator"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
